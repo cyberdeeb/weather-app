@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f0f4f8;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+}
+
+input, button {
+  padding: 0.6rem;
+  margin: 0.5rem;
+}
+
+.weather-box, .error-box {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.weather-box {
+  background-color: #d0f0ff;
+}
+
+.error-box {
+  background-color: #ffd6d6;
+  color: darkred;
+}
+
+.hidden {
+  display: none;
+}
