@@ -9,7 +9,7 @@ A simple weather dashboard built with **vanilla JavaScript**, HTML, and CSS that
 - 🌡️ Get live temperature and weather conditions
 - ☁️ Displays weather description and icon
 - ⏳ Shows loading state while fetching data
-- ❌ Graceful error handling (e.g. invalid city)
+- ❌ Error handling (e.g. invalid city)
 - 📱 Responsive and mobile-friendly design
 
 
@@ -18,4 +18,4 @@ A simple weather dashboard built with **vanilla JavaScript**, HTML, and CSS that
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [Weatherstack API]([https://openweathermap.org/api](https://weatherstack.com/))
+- [Weatherstack API]([https://weatherstack.com/])
