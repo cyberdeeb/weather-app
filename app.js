@@ -6,7 +6,7 @@ const resultDiv = document.getElementById('result');
 const errorDiv = document.getElementById('error');
 
 weatherButton.addEventListener('click', async() => {
-  const location = locationInput.trim();
+  const location = locationInput.value.trim();
 
   if (!location) return;
 
