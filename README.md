@@ -18,4 +18,4 @@ A simple weather dashboard built with **vanilla JavaScript**, HTML, and CSS that
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [Weatherstack API]([https://openweathermap.org/api](https://weatherstack.com/))
